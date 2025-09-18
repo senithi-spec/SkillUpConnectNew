@@ -72,6 +72,6 @@ Smart recommendation engine (matching mentors ↔ students)
 Senithi Mathangaweera
 Aspiring Business Analyst / Product Manager
 
-📌 Connect on LinkedIn
+📌 Connect on LinkedIn: www.linkedin.com/in/senithi-mathangaweera-21aa6526b
 
 📧 Email: msenithi004@gmail.com
