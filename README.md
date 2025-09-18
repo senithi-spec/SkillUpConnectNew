@@ -52,7 +52,7 @@ Prepared a case study highlighting business insights & recommendations
 ## 📂 Repository Structure
 SkillUpConnect/
 
-│── docs/       # SRS, Cohort Analysis, Case Study
+│── docs/       # SRS, Cohort Analysis
 
 │── bpmn/       # Business process models
 
