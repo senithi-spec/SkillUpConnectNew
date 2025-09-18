@@ -1,17 +1,17 @@
-# SkillUpConnect 🚀
+## SkillUpConnect 🚀
 
 A Personalized Peer-to-Peer Learning & Mentorship Platform
 
-##  🎯 Project Overview
+# 🎯 Project Overview
 
-SkillUpConnect is a pre-launch platform designed to connect mentors and learners for skill development.
-The project highlights both Business Analysis (BA/PM skills) and Technical Development — combining product requirements, process modeling, cohort analysis, and working prototypes.
+SkillUpConnect is a conceptual pre-launch platform designed to connect mentors and learners for skill development.
+This project demonstrates both Business Analysis (BA/PM skills) and Technical Understanding — combining system requirements, process modeling, cohort analysis, and case study documentation.
 
-##  🛠️ Key Features
+🛠️ Key Features (Planned)
 
 👨‍🏫 Mentor Registration & Application (with verification & onboarding form)
 
-📚 Student Access to pre-recorded courses (PM, QA, DevOps, Digital Marketing, Python for Beginners, etc.)
+📚 Student Access to Pre-recorded Courses (PM, QA, DevOps, Digital Marketing, Python for Beginners, etc.)
 
 🎓 Certification Download upon course completion
 
@@ -23,104 +23,52 @@ The project highlights both Business Analysis (BA/PM skills) and Technical Devel
 
 📊 Progress Tracking & Analytics
 
-🧠 Future Roadmap: AI chatbot + Customizable Dashboards
+🧠 Future Roadmap: AI chatbot + customizable dashboards
 
+🔍 Analysis Approach
 
+The following BA/PM activities were carried out:
 
-## 🔍 Analysis Approach
+Requirement gathering from a student–mentor perspective
 
+Documented System Requirements (SRS)
 
-This project focuses on analyzing pre-launch requirements for SkillUpConnect.  
+Modeled processes using BPMN diagrams
 
+Conducted a cohort analysis to understand pre-launch retention
 
-The following approach was used:
+Prepared a case study highlighting business insights & recommendations
 
-
-1. Gathered requirements from a student–mentor perspective.
-
- 
-2. Documented functional & non-functional requirements (SRS & BRD).
-
-  
-3. Modeled key business processes using BPMN.
-
-  
-4. Conducted a cohort analysis to understand user retention.
-
-   
-5. Prepared a case study highlighting business insights and recommendations.
-
-   
-
-##  📊 Business Analyst / PM Deliverables
+📊 Business Analyst / PM Deliverables
 
 📄 Software Requirement Specification (SRS)
 
-📄 Business Requirement Document (BRD)
-
 📊 Cohort Analysis (Pre-launch)
 
-🔄 Business Process Models (BPMN Diagrams)
+🔄 Business Process Models (BPMN diagrams)
 
 🎯 Case Study: Pre-launch Cohort Analysis for User Retention
 
-
-##  📂 Repo Structure:
-
+📂 Repository Structure
 SkillUpConnect/
+│── docs/       # SRS, Cohort Analysis, Case Study
+│── bpmn/       # Business process models
+│── data/       # Sample CSVs (e.g., for cohort analysis / Jira import)
+│── README.md   # This file
 
-
-│── frontend/      # React code
-
-
-│── backend/       # Python scripts / APIs
-
-
-│── docs/          # SRS, BRD, Cohort Analysis, Case Study
-
-
-│── bpmn/          # Auto-generated process models
-
-
-│── data/          # CSVs (sample + Jira import)
-
-
-│── README.md      # This file
-
-
-## 🚀 How to Run Locally
-Frontend (React)
-
-
-cd frontend
-
-npm install
-
-npm start
-
-Backend (Python)
-
-
-cd backend
-
-pip install -r requirements.txt
-
-python app.py
-
-
-
-##  🌱 Future Enhancements
+🌱 Future Enhancements
 
 AI-driven chatbot assistant for instant learning help
 
-Personalized dashboards for both mentors & learners
+Personalized dashboards for mentors & learners
 
 Smart recommendation engine (matching mentors ↔ students)
 
-###  👩‍💻 Author
+👩‍💻 Author
 
 Senithi Mathangaweera
-
 Aspiring Business Analyst / Product Manager
 
-📌 Connect on LinkedIn: www.linkedin.com/in/senithi-mathangaweera-21aa6526b  | 📧 Email: msenithi004@gmail.com
+📌 Connect on LinkedIn
+
+📧 Email: msenithi004@gmail.com
