@@ -51,9 +51,13 @@ Prepared a case study highlighting business insights & recommendations
 
 ## 📂 Repository Structure
 SkillUpConnect/
+
 │── docs/       # SRS, Cohort Analysis, Case Study
+
 │── bpmn/       # Business process models
+
 │── README.md   # This file
+
 
 ## 🌱 Future Enhancements
 
