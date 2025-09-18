@@ -1,13 +1,13 @@
-## SkillUpConnect 🚀
+# SkillUpConnect 🚀
 
 A Personalized Peer-to-Peer Learning & Mentorship Platform
 
-# 🎯 Project Overview
+## 🎯 Project Overview
 
 SkillUpConnect is a conceptual pre-launch platform designed to connect mentors and learners for skill development.
 This project demonstrates both Business Analysis (BA/PM skills) and Technical Understanding — combining system requirements, process modeling, cohort analysis, and case study documentation.
 
-🛠️ Key Features (Planned)
+## 🛠️ Key Features (Planned)
 
 👨‍🏫 Mentor Registration & Application (with verification & onboarding form)
 
@@ -25,7 +25,7 @@ This project demonstrates both Business Analysis (BA/PM skills) and Technical Un
 
 🧠 Future Roadmap: AI chatbot + customizable dashboards
 
-🔍 Analysis Approach
+## 🔍 Analysis Approach
 
 The following BA/PM activities were carried out:
 
@@ -39,7 +39,7 @@ Conducted a cohort analysis to understand pre-launch retention
 
 Prepared a case study highlighting business insights & recommendations
 
-📊 Business Analyst / PM Deliverables
+## 📊 Business Analyst / PM Deliverables
 
 📄 Software Requirement Specification (SRS)
 
@@ -49,14 +49,13 @@ Prepared a case study highlighting business insights & recommendations
 
 🎯 Case Study: Pre-launch Cohort Analysis for User Retention
 
-📂 Repository Structure
+## 📂 Repository Structure
 SkillUpConnect/
 │── docs/       # SRS, Cohort Analysis, Case Study
 │── bpmn/       # Business process models
-│── data/       # Sample CSVs (e.g., for cohort analysis / Jira import)
 │── README.md   # This file
 
-🌱 Future Enhancements
+## 🌱 Future Enhancements
 
 AI-driven chatbot assistant for instant learning help
 
@@ -64,7 +63,7 @@ Personalized dashboards for mentors & learners
 
 Smart recommendation engine (matching mentors ↔ students)
 
-👩‍💻 Author
+### 👩‍💻 Author
 
 Senithi Mathangaweera
 Aspiring Business Analyst / Product Manager
