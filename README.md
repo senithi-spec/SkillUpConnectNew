@@ -27,17 +27,17 @@ This project demonstrates both Business Analysis (BA/PM skills) and Technical Un
 
 ## 🔍 Analysis Approach
 
-The following BA/PM activities were carried out:
+- The following BA/PM activities were carried out:
 
-Requirement gathering from a student–mentor perspective
+- Requirement gathering from a student–mentor perspective
 
-Documented System Requirements (SRS)
+- Documented System Requirements (SRS)
 
-Modeled processes using BPMN diagrams
+- Modeled processes using BPMN diagrams
 
-Conducted a cohort analysis to understand pre-launch retention
+- Conducted a cohort analysis to understand pre-launch retention
 
-Prepared a case study highlighting business insights & recommendations
+- Prepared a case study highlighting business insights & recommendations
 
 ## 📊 Business Analyst / PM Deliverables
 
